@@ -1,4 +1,4 @@
-module github.com/jfrog-solutiontest/test-fromonkeytest
+module github.com/jfrog-solutiontest/test-formonkeytest
 
 go 1.14
 
